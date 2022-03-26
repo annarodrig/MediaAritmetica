@@ -1,0 +1,2 @@
+# MediaAritmetica
+Exercício pc1
